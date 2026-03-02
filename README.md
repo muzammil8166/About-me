@@ -1,54 +1,33 @@
-<h1 align="center">Hi 👋, I'm Muzammil Kureshi</h1>
-<h3 align="center">Frontend Developer | React & Redux Toolkit Learner 🚀</h3>
+# Animated Portfolio (React + Tailwind + JavaScript)
 
----
+A personal animated portfolio starter built with **React**, **Tailwind CSS**, and **JavaScript**.
 
-## 👨‍💻 About Me
+## Features
 
-* 🌱 Currently learning **Redux Toolkit & RTK Query**
-* ⚛️ Building projects using **React.js**
-* 🎯 Goal: Become a Professional Frontend Developer
-* 💡 Love creating responsive UI & modern web apps
+- Modern hero section with call-to-action buttons
+- Animated skill cards and floating contact card
+- Responsive project grid
+- Clean glassmorphism look
 
----
+## Tech Stack
 
-## 🛠️ Tech Stack
+- React
+- JavaScript
+- Tailwind CSS
+- Vite
 
-**Frontend**
+## Getting Started
 
-* HTML
-* CSS
-* JavaScript
-* React.js
-* Tailwind CSS
+```bash
+npm install
+npm run dev
+```
 
-**State Management**
+Then open: `http://localhost:5173`
 
-* Redux Toolkit
-* RTK Query
+## Build
 
-**Tools**
-
-* Git
-* GitHub
-* VS Code
-* Chrome DevTools
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Muzammil8166\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzammil8166\&layout=compact\&theme=tokyonight)
-
----
-
-## 🔗 Connect With Me
-
-* LinkedIn: [(https://www.linkedin.com/in/muzammil-kureshi-0395432a5 )]
-* Portfolio:
-
----
-
-⭐ Always learning, always building.
+```bash
+npm run build
+npm run preview
+```
