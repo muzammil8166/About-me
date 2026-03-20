@@ -22,7 +22,7 @@
 * JavaScript
 * TypeScript
 * React.js
-* 
+
 **State Management**
 
 * Redux Toolkit
