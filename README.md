@@ -41,9 +41,9 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Muzammil8166\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=muzammil8166&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzammil8166\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muzammil8166&layout=compact&theme=tokyonight)
 
 ---
 
